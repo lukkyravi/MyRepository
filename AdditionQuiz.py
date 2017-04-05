@@ -3,8 +3,8 @@ import random
 
 #Generate random numbers
 
-number1 = random.randint(0,9)
-number2 = random.randint(0,9)
+number1 = random.randint(0,99)
+number2 = random.randint(0,99)
 
 #Prompt the user to Enter an answer
 
